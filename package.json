@@ -1,0 +1,22 @@
+{
+  "name": "multisensory-introduction",
+  "version": "0.1.0",
+  "description": "[TRAINING] Introduction - Multisensory Architecture",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/multisensory-introduction.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/multisensory-introduction/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/multisensory-introduction#readme"
+}
